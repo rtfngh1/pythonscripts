@@ -1,0 +1,14 @@
+# Device list for fwd_signature_audit.py
+#
+# Copy this file to devices.txt and replace the entries below with the device
+# names you want to audit. Names must match the device names shown by the
+# platform exactly, including case.
+#
+# One name per line. Blank lines and lines starting with # are ignored.
+# devices.txt is git-ignored, so real device names never reach the repository.
+#
+# The names below are made up placeholders, not real devices.
+
+lab-lb-01
+lab-lb-02
+lab-sw-01
